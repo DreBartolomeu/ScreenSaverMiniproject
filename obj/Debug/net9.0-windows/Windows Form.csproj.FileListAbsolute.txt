@@ -1,0 +1,15 @@
+C:\Users\caina\Desktop\Windows Form\bin\Debug\net9.0-windows\Windows Form.exe
+C:\Users\caina\Desktop\Windows Form\bin\Debug\net9.0-windows\Windows Form.deps.json
+C:\Users\caina\Desktop\Windows Form\bin\Debug\net9.0-windows\Windows Form.runtimeconfig.json
+C:\Users\caina\Desktop\Windows Form\bin\Debug\net9.0-windows\Windows Form.dll
+C:\Users\caina\Desktop\Windows Form\bin\Debug\net9.0-windows\Windows Form.pdb
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\Windows Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\Windows Form.AssemblyInfoInputs.cache
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\Windows Form.AssemblyInfo.cs
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\Windows Form.sourcelink.json
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\Windows Form.dll
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\refint\Windows Form.dll
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\Windows Form.pdb
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\Windows Form.genruntimeconfig.cache
+C:\Users\caina\Desktop\Windows Form\obj\Debug\net9.0-windows\ref\Windows Form.dll
