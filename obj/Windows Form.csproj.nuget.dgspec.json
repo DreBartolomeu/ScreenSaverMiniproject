@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SENAI\\OneDrive - SESISENAISP - Escolas\\Faculdade\\CST ADS\\Semestre 2\\Desenvolvimento Back-end\\Projetos\\ScreenSaverProject\\Windows Form.csproj": {}
+    "C:\\Users\\Andressa Bartolomeu\\Desktop\\TelaBack\\ScreenSaverMiniproject\\Windows Form.csproj": {}
   },
   "projects": {
-    "D:\\SENAI\\OneDrive - SESISENAISP - Escolas\\Faculdade\\CST ADS\\Semestre 2\\Desenvolvimento Back-end\\Projetos\\ScreenSaverProject\\Windows Form.csproj": {
+    "C:\\Users\\Andressa Bartolomeu\\Desktop\\TelaBack\\ScreenSaverMiniproject\\Windows Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SENAI\\OneDrive - SESISENAISP - Escolas\\Faculdade\\CST ADS\\Semestre 2\\Desenvolvimento Back-end\\Projetos\\ScreenSaverProject\\Windows Form.csproj",
+        "projectUniqueName": "C:\\Users\\Andressa Bartolomeu\\Desktop\\TelaBack\\ScreenSaverMiniproject\\Windows Form.csproj",
         "projectName": "Windows Form",
-        "projectPath": "D:\\SENAI\\OneDrive - SESISENAISP - Escolas\\Faculdade\\CST ADS\\Semestre 2\\Desenvolvimento Back-end\\Projetos\\ScreenSaverProject\\Windows Form.csproj",
-        "packagesPath": "C:\\Users\\caina\\.nuget\\packages\\",
-        "outputPath": "D:\\SENAI\\OneDrive - SESISENAISP - Escolas\\Faculdade\\CST ADS\\Semestre 2\\Desenvolvimento Back-end\\Projetos\\ScreenSaverProject\\obj\\",
+        "projectPath": "C:\\Users\\Andressa Bartolomeu\\Desktop\\TelaBack\\ScreenSaverMiniproject\\Windows Form.csproj",
+        "packagesPath": "C:\\Users\\Andressa Bartolomeu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andressa Bartolomeu\\Desktop\\TelaBack\\ScreenSaverMiniproject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\caina\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Andressa Bartolomeu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"
@@ -65,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
